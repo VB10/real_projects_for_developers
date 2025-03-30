@@ -1,6 +1,7 @@
 # 📱 hotel-booking-app Projesi
 
-[Hotel Booking App](https://www.figma.com/community/file/1275146473633828854)
+
+![Hotel Booking App](https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/50385c3be1d99a35a1da6e4f97e876d5fa91073b)
 
 Bu klasör **hotel-booking-app** projesine aittir.
 
