@@ -16,7 +16,8 @@ Ayrıca `envied` ile güvenlik ve `easy_localization` ile çoklu dil desteği sa
 
 ---
 
-# 🗂️ Klasör Yapısı
+# 🗂️ Klasör Yapısı:
+
 
 lib/
 ├── core/
@@ -49,6 +50,7 @@ lib/
 │       └── light_theme.dart
 ├── main.dart
 └── app.dart
+
 ---
 
 # ✅ product/ Klasörünün Kullanım Amaçları

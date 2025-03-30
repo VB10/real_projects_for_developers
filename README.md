@@ -29,9 +29,10 @@ Her proje kendi klasöründe aşağıdaki dosyaları içerir:
 3. Mobil ya da backend dosyasından görevleri takip ederek uygulamaya başla.
 4. İstersen katkıda bulunabilir veya yeni projeler önererek gelişime destek olabilirsin.
 
-## 🌐 Ana Dil
+## 🌐 Yardımcı Dokümantasyonlar
 
-Bu repo Türkçe olarak hazırlanmıştır. İleride İngilizce içerikler de eklenebilir.
+- [İlk adımını at, ekip çalışmasıyla proje geliştirme rehberi](https://medium.com/@vbacik-10/i%CC%87lk-ad%C4%B1m%C4%B1n%C4%B1-at-ekip-%C3%A7al%C4%B1%C5%9Fmas%C4%B1yla-proje-geli%C5%9Ftirme-rehberi-1a794972e724)
+
 
 # ✨ Katkı Sağlamak İsteyenler İçin
 
