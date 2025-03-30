@@ -24,16 +24,49 @@ Amaç; hazır bir UI kit üzerinden ilerleyerek, bir uygulamanın fikirden ürü
 - Ödeme akışı (test ortamı)
 - Profil yönetimi ve geçmiş rezervasyonlar
 
+## ⏱️ Süre ve İş Gücü Tahmini
+
+Bu proje uçtan uca tamamlanmak istendiğinde, tasarımdan yayına kadar birçok süreci içerir:
+
+### Dahil Olan Adımlar
+- Tasarım analiz ve bileşen planlama
+- Mobil uygulama kurulumu, MVVM yapı, sayfa geliştirmeleri
+- Backend kurulumu (Node.js veya Firebase), API endpoint geliştirmeleri
+- Ortam değişkenleri, localizasyon, auth sistemi
+- Test altyapısı (unit/widget/postman/firebase emulator)
+- CI/CD pipeline kurulumu
+- Dokümantasyon ve deploy
+
 ---
 
-## 📁 Klasör Yapısı
+### 📊 Geliştirici Profiline Göre Tahmini Süre (Adam/Gün)
 
-hotel-app/ 
-├── project.md → Bu dosya – proje tanımı ve kapsam 
-├── mobile/ → Mobil geliştirme (flutter, swift, vs.)
-├── backend/ → Backend geliştirme (node, supabase, vs.) 
-├── devops.md → CI/CD, ortam yönetimi
-├── design.md → Renk paleti, yazı stilleri, komponent notları
+| Geliştirici Profili        | Mobil (Flutter) | Backend (Node.js/Firebase) | Ortak İşler (test, ci, dokümantasyon) | Toplam |
+|----------------------------|------------------|-----------------------------|----------------------------------------|--------|
+| 👨‍🎓 Öğrenci / Yeni Başlayan   | 50–60 gün         | 20–25 gün                    | 10–15 gün                               | **85–100 gün** |
+| 👨‍💻 Deneyimli Geliştirici     | 15–20 gün         | 9–12 gün                     | 5–7 gün                                 | **30–40 gün**  |
+
+> Bütçelerinizi adam gün çarpı asgari ücret olarak hesaplayabilirsiniz başlangıçta.
+> Süreler full-time çalışmaya göredir. Part-time ilerlemede 2 kat süre alabilir.
+> Ortak işler; test yazma, CI/CD entegrasyonu, dokümantasyon, refactor, task yönetimi gibi görevleri içerir.
+
+---
+
+### 🔄 Geliştirme Akışı Önerisi
+
+1. 🎯 Tasarım inceleme & bileşen çıkarımı  
+2. 📱 Mobil sayfa & navigasyon yapısı  
+3. 💻 Backend (auth, db, booking sistemi)  
+4. 🧪 Test ve validasyon  
+5. 📦 Paketleme & pipeline kurulumu  
+6. 📖 Dokümantasyon & teslim
+
+---
+
+📌 **Notlar:**
+- Gerçek dünyada bu tarz proje MVP olarak 1–1.5 ayda çıkarılabilir.
+- Test ve CI/CD süreçleri ihmal edilmemelidir.
+- Bu planlama, “öğrenerek geliştiren” kişiler için optimize edilmiştir.
 
 ---
 
